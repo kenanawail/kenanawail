@@ -17,7 +17,7 @@
 - 👯 Je cherche à collaborer sur : **Projets open source et développement web**
 - 🤝 J’ai un intérêt pour : **Cybersécurité et réseaux informatiques**
 - 💬 Posez-moi des questions sur : **Java, MySQL, PHP, HTML, CSS, JavaScript**
-- 📫 Contact : **kenanawail@gmail.com**
+- 📫 Contact : **kenana.wail16@gmail.com**
 - ⚡ Fun fact : J’aime résoudre des problèmes et construire des projets pratiques
 
 ---
