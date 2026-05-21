@@ -13,10 +13,10 @@
 ## 🚀 À propos de moi
 
 - 🔭 Je travaille actuellement sur : **Projets de développement Java et Web**
-- 🌱 J’apprends : **Java, SQL, développement web, cybersécurité et analyse de données**
+- 🌱 J’apprends : **Java, SQL, développement web, cybersécurité, analyse de données et le réseau (CCNA)**
 - 👯 Je cherche à collaborer sur : **Projets open source et développement web**
 - 🤝 J’ai un intérêt pour : **Cybersécurité et réseaux informatiques**
-- 💬 Posez-moi des questions sur : **Java, MySQL, PHP, HTML, CSS, JavaScript**
+- 💬 Posez-moi des questions sur : **Java, MySQL, PHP, HTML, CSS, JavaScript et le réseau**
 - 📫 Contact : **kenana.wail16@gmail.com**
 - ⚡ Fun fact : J’aime résoudre des problèmes et construire des projets pratiques
 
