@@ -12,7 +12,7 @@
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **Projets de développement Java et Web**
+- 🔭 Je travaille actuellement sur : **Projets de développement Java et Web / la cybersécurité / l’analyse de données**
 - 🌱 J’apprends : **Java, SQL, développement web, cybersécurité, analyse de données et le réseau (CCNA)**
 - 👯 Je cherche à collaborer sur : **Projets open source et développement web**
 - 🤝 J’ai un intérêt pour : **Cybersécurité et réseaux informatiques**
